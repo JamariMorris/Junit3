@@ -28,4 +28,4 @@ Save the file as **screenfetch.gif**.
  
 ### Running screenfetch
 
-<img src="http://g.recordit.co/0Km0xyybNP.gif" alt="Running screenfetch">
+<img src="[http://g.recordit.co/0Km0xyybNP.gif](https://recordit.co/PwvYksbfvx)" alt="Running screenfetch">
